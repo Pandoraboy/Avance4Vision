@@ -69,3 +69,6 @@ De esta forma, la visualización de las detecciones queda implementada directame
 ## Resultados
 
 El análisis completo de cada imagen, junto con los aciertos, errores y mejoras propuestas, se encuentra escrito dentro del notebook.
+
+Imagen de ejemplo
+![Resultado del modelo](resultados/11074_1100_inferencia.jpg)
